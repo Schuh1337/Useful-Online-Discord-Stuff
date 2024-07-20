@@ -1,3 +1,4 @@
 # Usefull-Discord-Stuff
 
-![image](https://user-images.githubusercontent.com/34555296/120932740-4ca47480-c6f7-11eb-9270-6fb3fbbd856c.png)
+![Token Structure](token_structure.png)
+![Snowflake to Datetime](snowflake_to_datetime.png)
