@@ -1,4 +1,6 @@
 # Usefull-Discord-Stuff
 
-![Token Structure](token_structure.png)
-![Snowflake to Datetime](snowflake_to_datetime.png)
+<div style="text-align: center;">
+    <img src="token_structure.png" alt="Token Structure" />
+    <img src="snowflake_to_datetime.png" alt="Snowflake to Datetime" />
+</div>
