@@ -1,0 +1,9 @@
+Edit the gateway.py source from the discord library [C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord] and find the line:
+
+if state._intents is not None:
+     payload['d']['intents'] = state._intents.value
+
+and change it to:
+
+if state._intents is not None and self._connection.is_bot == True:
+     payload['d']['intents'] = state._intents.value
