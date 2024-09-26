@@ -1,8 +1,8 @@
 # Useful-Online/Discord-Stuff
 
-explanations - how popular malware / scam methods work
-discord - discord stuff
-png - images
+explanations - how popular malware / scam methods work<br>
+discord - discord stuff<br>
+png - images<br>
 
 <p align="center">
   <img src="png/token_structure.png" alt="Token Structure" />
