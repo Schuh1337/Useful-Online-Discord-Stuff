@@ -1,0 +1,5 @@
+Think about a fun game where you have to click the right buttons. But suddenly, a hidden button pops up that tricks you into clicking on something you didn’t want!
+
+Clickjacking is like that hidden button. It’s a trick where someone creates a webpage that makes it look like you’re clicking on something harmless, but you’re actually clicking on a different link or ad that can cause trouble.
+
+So, just like you’d want to make sure you’re clicking on the right things, be careful online to avoid clickjacking!
