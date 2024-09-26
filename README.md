@@ -1,4 +1,4 @@
-# Usefull-Discord-Stuff
+# Useful-Discord-Stuff
 
 <p align="center">
   <img src="png/token_structure.png" alt="Token Structure" />
