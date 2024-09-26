@@ -1,0 +1,3 @@
+Picture you and your friend are playing a game together, and someone sneaks in and takes your game ticket. They pretend to be you and start playing your game!
+
+Session Fixation is when an attacker tricks you into using a specific session ID so they can hijack your account or online session. They gain access by using the same ticket you were supposed to keep safe!
