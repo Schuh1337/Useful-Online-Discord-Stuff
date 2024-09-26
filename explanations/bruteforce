@@ -1,0 +1,5 @@
+Imagine you have a big treasure chest that you can only open with a special key that has a secret code. Now, let’s say someone really wants to open that chest, so they start trying every single combination of numbers and letters they can think of—like 0000, 0001, 0002, and so on—until they finally guess the right one!
+
+Brute Force is like that treasure chest guesser. It’s when someone tries to crack a password by guessing every possible combination until they find the right one. This method can take a long time, especially if the password is really strong and complicated, but if the password is weak, they might open the chest quickly!
+
+So, just like you’d want to create a tricky code for your treasure chest to keep it safe, it’s important to use strong and unique passwords to protect your accounts from brute force attacks!
