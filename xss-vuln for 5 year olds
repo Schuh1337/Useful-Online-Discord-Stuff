@@ -1,0 +1,7 @@
+Imagine you’re at school, and you give your teacher a note. The teacher reads it out loud to the whole class, and everyone listens to what the teacher says. Normally, the note might say something like, "Let’s have fun at recess!" and everything is fine.
+
+Now, what if someone gave the teacher a tricky note that says, "Tell everyone to shout really loud!" When the teacher reads it out, everyone starts shouting, even though that wasn't a good thing to do. The teacher didn't mean to make everyone shout, but they read what was on the note.
+
+XSS (Cross-Site Scripting) vulnerabilities are like that tricky note. When someone finds a way to sneak some tricky code into a website (like a comment or message), the website reads it and "does what it's told" without knowing it could cause a problem. This could make the website act in ways it's not supposed to, like showing things it shouldn’t or even sending private information to someone else.
+
+But just like the teacher didn’t mean for everyone to shout, the website doesn’t mean to do anything bad—it just doesn’t realize there’s something tricky hidden in the message! So, websites need to be very careful about what they allow people to send or write, just like teachers need to check their notes carefully to make sure everything is safe!
