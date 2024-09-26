@@ -1,0 +1,4 @@
+
+A Remote Code Execution (RCE) vulnerability is like a security hole in a computer or app that lets a bad person control it from far away. Imagine if someone could magically press buttons on your tablet or game console, making it do things without you touching it. They could make it open new apps or mess with your game. An RCE vulnerability allows a bad person to do something like that to a computer through the internet.
+
+Just like how you keep your toys safe from people who might break them, we need to keep computers safe from these bad people who find these holes.
