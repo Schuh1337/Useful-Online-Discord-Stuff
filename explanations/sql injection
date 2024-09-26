@@ -1,0 +1,5 @@
+Think of a toy box that has a secret code to open it. But someone figures out how to trick the lock and opens it without using the right code!
+
+SQL Injection is like that clever trick. It’s a way for hackers to send malicious commands to a website’s database, allowing them to steal or change information without permission. This happens when websites don’t have strong protections.
+
+So, just like you’d want to keep your toy box locked tight, websites need to have good security to protect against SQL injection!
