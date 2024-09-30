@@ -7,7 +7,9 @@ png - images<br>
 <p align="center">
   <img src="png/token_structure.png" alt="Token Structure" />
   <br/>
+  <img src="png/snowflake_to_datetime.png" alt="Snowflake to Datetime" />
+  <br/>
   <img src="png/gateway.png" alt="Gateway" />
   <br/>
-  <img src="png/snowflake_to_datetime.png" alt="Snowflake to Datetime" />
+  <img src="png/discord-iss.png" alt="Internal Server Structure" />
 </p>
